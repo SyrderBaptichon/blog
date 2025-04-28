@@ -1,0 +1,48 @@
+baseURL: https://syrder.com/
+languageCode: en-us
+title: Syrder Baptichon
+pagination.pagerSize: 5
+theme: ["PaperMod"]
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, DevOps, Learning, Homelab]
+  author: Syrder Baptichon
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: topics
+      name: Topics
+      url: /topics/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
