@@ -1,18 +1,25 @@
 ---
-date: '2025-05-05T04:16:52+02:00'
-title: 'Breathing New Life Into Old PCs: My Homelab on a Budget'
+date: '2025-07-04T04:16:52+02:00'
+title: 'Budget Homelab: My First Build Using Forgotten Gear'
 
 draft: false
 tags: ['homelab', 'hardware']
 ---
-When looking at content on homelabbing, you might get the impression that it is just an expensive hobby. This is completely false. As a broke college student, I started with items that I had lying aroud and so can you.
+**When looking at content on homelabbing, you might get the impression that it is just an expensive hobby. This is completely false. As a broke college student, I started with items that I had lying aroud and so can you.**
+
+## So, What Could I Use?
+Obviously, I could only use what I had on hand and what I could get for cheap if not free :
+- Old desktop that I got for free in college, though it needed some upgrade.
+- Gaming laptop that I broke years ago and that I barely touched since.
+- Mini PCs that I saved from going to the landfill at my job.
+You too probably have an old or broken laptop or PC around. If so, you might just  have what you need to start a homelab as long as it has enough **CPU resources**, **memory** and **drives**.
 
 ## Old Desktops
-I refurbished and upgraded my old (2011) Dell Optiplex 390 by doing a deep cleaning of all the components and the case using an air blower and isopropyl alcohol. It also got some well needed upgrades.
-- RAM: 4GB -> 16GB (2x8GB)
-- Storage : 250GB HDD -> 1TB HDD + 500GB SSD
-- Intel core i3-2100 (2 cores, 4 threads, 3,10 GHz) -> intel core i7-2600 (4 cores, 8 threads, 3,40 GHz)
-- NIC: Intel PRO/1000
+I refurbished and upgraded my old (2011) **Dell Optiplex 390** by doing a deep cleaning of all the components and the case using an air blower and isopropyl alcohol. It also got some well needed upgrades.
+- RAM: 4GB -> **16GB (2x8GB)**
+- Storage : 250GB HDD -> **3x 1TB HDD + 500GB SSD**
+- Intel core i3-2100 (2 cores, 4 threads, 3,10 GHz) -> **intel core i7-2600 (4 cores, 8 threads, 3,40 GHz)**
+- NIC: **Intel PRO/1000**
 
 Old desktops with decent upgradability and good specs are pretty cheap to find these days. Companies often sell them in bulk or donate them when they are renewing their computers. You might also be able to get them for free like I did if your university or employer is getting rid of them.
 
@@ -20,7 +27,7 @@ If you're a gamer, your old gaming PC might be the perfect for running a hypervi
 ![Alt text](OriginalJPG.avif "Dell Optiplex 390 different form factors")
 
 ## Cost
-The total cost of the upgrades came at around 110€ since I got most of the components used except for the RAM and the SSD. I could have easily paid less if I waited to get good deals but I was really looking forward to start my journey in homelabing.
+The total cost of the upgrades came at around **110€** since I got most of the components used except for the RAM and the SSD. I could have easily paid less if I waited to get good deals but I was really looking forward to start my journey in homelabing.
 
 You can easily get used and refurbished hardware on sites like eBay or Facebook Marketplace to start your homelabbing and self-hosting journey for cheap. The only thing that is required to start is 4GB of RAM, a CPU that supports virtualization and enough storage for an OS.
 
@@ -44,4 +51,4 @@ Also, dismantling and taking a computer apart and rebuilding it afterward is not
 I'm sure there are a lot more for me to learn when it comes to the hardware side of homelabbing. I haven't even had the chance to check out raspberry pis or enterprise grade servers yet. The journey has just started.
 
 ## Conclusion
-Just grab any old PC or laptop you have lying around. It's more than enough to start learning about Linux, virtualization and self-hosting.
+**Just grab any old PC or laptop you have lying around. It's more than enough to start learning about Linux, virtualization and self-hosting.**

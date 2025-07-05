@@ -1,2 +1,2 @@
 # blog
-My blog hosted on www.syrder.com. Powered by markdown, Hugo and paperMod
+My blog hosted on syrder.com. Powered by markdown, Hugo and paperMod
