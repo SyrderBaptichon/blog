@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Syrder Baptichon</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/fr/posts/</link>
     <description>Recent content in Posts on Syrder Baptichon</description>
     <image>
       <title>Syrder Baptichon</title>
@@ -10,14 +10,14 @@
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.9</generator>
-    <language>en</language>
+    <language>fr</language>
     <lastBuildDate>Fri, 04 Jul 2025 04:16:52 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Budget Homelab: My First Build Using Forgotten Gear</title>
-      <link>http://localhost:1313/posts/start_homelab/</link>
+      <link>http://localhost:1313/fr/posts/start_homelab/</link>
       <pubDate>Fri, 04 Jul 2025 04:16:52 +0200</pubDate>
-      <guid>http://localhost:1313/posts/start_homelab/</guid>
+      <guid>http://localhost:1313/fr/posts/start_homelab/</guid>
       <description>&lt;p&gt;&lt;strong&gt;When looking at content on homelabbing, you might get the impression that it is just an expensive hobby. This is completely false. As a broke college student, I started with items that I had lying aroud and so can you.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;so-what-could-i-use&#34;&gt;So, What Could I Use?&lt;/h2&gt;
 &lt;p&gt;Obviously, I could only use what I had on hand and what I could get for cheap if not free :&lt;/p&gt;

@@ -16,6 +16,7 @@ mainsections: ["posts", "papermod"]
 languages:
   en:
     languageName: "English"
+    contentDir: content/english
     weight: 1
     taxonomies:
       category: categories
@@ -42,6 +43,7 @@ languages:
 
   fr:
     languageName: ":fr:"
+    contentDir: content/french
     weight: 2
     title: Syrder Baptichon
     taxonomies:
@@ -51,7 +53,7 @@ languages:
     menu:
       main:
         - identifier: about
-          name: About
+          name: À propos
           url: /about/
           weight: 10
         - identifier: tags
@@ -63,7 +65,7 @@ languages:
           url: /archive/
           weight: 30
         - identifier: search
-          name: Search
+          name: Recheche
           url: /search/
           weight: 40
 

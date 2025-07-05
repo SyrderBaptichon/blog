@@ -11,6 +11,22 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>fr</language>
+    <lastBuildDate>Fri, 04 Jul 2025 04:16:52 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Démarrer un homelab sans se ruiner : mon setup recyclé</title>
+      <link>http://localhost:1313/fr/posts/start_homelab/</link>
+      <pubDate>Fri, 04 Jul 2025 04:16:52 +0200</pubDate>
+      <guid>http://localhost:1313/fr/posts/start_homelab/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Quand on regarde des vidéos ou articles sur les homelabs, on a souvent l’impression que c’est un hobby hors de prix. C’est complètement faux. En tant qu’étudiant fauché, j’ai commencé avec ce que j’avais sous la main, et toi aussi tu peux faire pareil.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;alors-quest-ce-que-je-pouvais-utiliser-&#34;&gt;Alors, qu’est-ce que je pouvais utiliser ?&lt;/h2&gt;
+&lt;p&gt;Évidemment, j’ai dû faire avec ce que j’avais déjà ou ce que je pouvais récupérer gratuitement (ou presque) :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Un vieux PC de bureau récupéré gratos à la fac, mais qui avait besoin de quelques upgrades.&lt;/li&gt;
+&lt;li&gt;Un laptop gaming que j’ai cramé il y a des années et qui prenait la poussière depuis.&lt;/li&gt;
+&lt;li&gt;Des mini-PC que j’ai sauvés de la benne au boulot.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Toi aussi, t’as probablement un vieux PC ou un laptop à moitié mort qui traîne quelque part. Si c’est le cas, t’as peut-être déjà ce qu’il faut pour te lancer dans un homelab – du moment que t’as un minimum de &lt;strong&gt;CPU&lt;/strong&gt;, &lt;strong&gt;RAM&lt;/strong&gt; et de &lt;strong&gt;stockage&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

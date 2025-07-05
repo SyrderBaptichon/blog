@@ -11,23 +11,24 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 May 2025 04:16:52 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 04:16:52 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Budget Homelab: My First Build Using Forgotten Gear</title>
       <link>http://localhost:1313/posts/start_homelab/</link>
-      <pubDate>Mon, 05 May 2025 04:16:52 +0200</pubDate>
+      <pubDate>Fri, 04 Jul 2025 04:16:52 +0200</pubDate>
       <guid>http://localhost:1313/posts/start_homelab/</guid>
       <description>&lt;p&gt;&lt;strong&gt;When looking at content on homelabbing, you might get the impression that it is just an expensive hobby. This is completely false. As a broke college student, I started with items that I had lying aroud and so can you.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;so-what-could-i-use&#34;&gt;So, What Could I Use?&lt;/h2&gt;
-&lt;p&gt;Abviously, I could only use what I had on hands and what I could get for cheap if not free :&lt;/p&gt;
+&lt;p&gt;Obviously, I could only use what I had on hand and what I could get for cheap if not free :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Old desktop that I got for free in college but that needed some upgrade.&lt;/li&gt;
-&lt;li&gt;Gaming laptop that I broke years ago and that I barely used.&lt;/li&gt;
-&lt;li&gt;Mini PCs that I saved from going to the landfill at my job.&lt;/li&gt;
+&lt;li&gt;Old desktop that I got for free in college, though it needed some upgrade.&lt;/li&gt;
+&lt;li&gt;Gaming laptop that I broke years ago and that I barely touched since.&lt;/li&gt;
+&lt;li&gt;Mini PCs that I saved from going to the landfill at my job.
+You too probably have an old or broken laptop or PC around. If so, you might just  have what you need to start a homelab as long as it has enough &lt;strong&gt;CPU resources&lt;/strong&gt;, &lt;strong&gt;memory&lt;/strong&gt; and &lt;strong&gt;drives&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;old-desktops&#34;&gt;Old Desktops&lt;/h2&gt;
-&lt;p&gt;I refurbished and upgraded my old (2011) Dell Optiplex 390 by doing a deep cleaning of all the components and the case using an air blower and isopropyl alcohol. It also got some well needed upgrades.&lt;/p&gt;</description>
+&lt;p&gt;I refurbished and upgraded my old (2011) &lt;strong&gt;Dell Optiplex 390&lt;/strong&gt; by doing a deep cleaning of all the components and the case using an air blower and isopropyl alcohol. It also got some well needed upgrades.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
