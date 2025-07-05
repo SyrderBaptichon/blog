@@ -58,11 +58,11 @@ languages:
           weight: 10
         - identifier: tags
           name: Tags
-          url: /tags/
+          url: fr/tags/
           weight: 20
-        - identifier: archive
-          name: Archive
-          url: /archive/
+        - identifier: archives
+          name: Archives
+          url: /archives/
           weight: 30
         - identifier: search
           name: Recheche

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Syrder Baptichon</title>
+    <title>Homepage on Syrder Baptichon</title>
     <link>http://localhost:1313/fr/</link>
-    <description>Recent content on Syrder Baptichon</description>
+    <description>Recent content in Homepage on Syrder Baptichon</description>
     <image>
       <title>Syrder Baptichon</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -27,6 +27,15 @@
 &lt;li&gt;Des mini-PC que j’ai sauvés de la benne au boulot.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Toi aussi, t’as probablement un vieux PC ou un laptop à moitié mort qui traîne quelque part. Si c’est le cas, t’as peut-être déjà ce qu’il faut pour te lancer dans un homelab – du moment que t’as un minimum de &lt;strong&gt;CPU&lt;/strong&gt;, &lt;strong&gt;RAM&lt;/strong&gt; et de &lt;strong&gt;stockage&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>À propos</title>
+      <link>http://localhost:1313/fr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/about/</guid>
+      <description>&lt;h1 id=&#34;à-propos-de-moi&#34;&gt;À propos de moi&lt;/h1&gt;
+&lt;p&gt;Je m&amp;rsquo;appelle Syrder Baptichon et je suis passionné par la programmation, les réseaux et le DevOps. Je suis actuellement titulaire d&amp;rsquo;une Licence en Informatique obtenue à l’Université Le Havre Normandie.&lt;/p&gt;
+&lt;p&gt;Curieux, rigoureux et motivé, je développe mes compétences à travers des projets concrets mêlant développement, administration réseau, sécurité et automatisation. J’ai un intérêt particulier pour l’intégration continue, l’infrastructure as code et la gestion des environnements techniques complexes autant de domaines où DevOps prend tout son sens.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

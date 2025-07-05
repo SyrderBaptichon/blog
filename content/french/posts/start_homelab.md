@@ -3,7 +3,7 @@ date: '2025-07-04T04:16:52+02:00'
 title: 'Démarrer un homelab sans se ruiner : mon setup recyclé'
 
 draft: false
-tags: ['homelab', 'hardware']
+tags: ['homelab', 'matériel informatique']
 ---
 **Quand on regarde des vidéos ou articles sur les homelabs, on a souvent l’impression que c’est un hobby hors de prix. C’est complètement faux. En tant qu’étudiant fauché, j’ai commencé avec ce que j’avais sous la main, et toi aussi tu peux faire pareil.**
 

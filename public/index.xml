@@ -30,5 +30,14 @@ You too probably have an old or broken laptop or PC around. If so, you might jus
 &lt;h2 id=&#34;old-desktops&#34;&gt;Old Desktops&lt;/h2&gt;
 &lt;p&gt;I refurbished and upgraded my old (2011) &lt;strong&gt;Dell Optiplex 390&lt;/strong&gt; by doing a deep cleaning of all the components and the case using an air blower and isopropyl alcohol. It also got some well needed upgrades.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 05 May 2025 05:16:49 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;My name is &lt;strong&gt;Syrder Baptichon&lt;/strong&gt;, and I&amp;rsquo;m passionate about &lt;strong&gt;programming&lt;/strong&gt;, &lt;strong&gt;networking&lt;/strong&gt;, and &lt;strong&gt;DevOps&lt;/strong&gt;. I currently hold a Bachelor&amp;rsquo;s degree in Computer Science from the University of Le Havre Normandie.&lt;/p&gt;
+&lt;p&gt;Curious, meticulous, and highly motivated, I develop my skills through hands-on projects that involve software development, network administration, security, and automation. I have a particular interest in continuous integration, infrastructure as code, and the management of complex technical environments all key areas where DevOps truly comes to life.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
